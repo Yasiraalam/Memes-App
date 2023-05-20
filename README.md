@@ -1,4 +1,4 @@
-# NEWSly App
+# MyMemes App
 Welcome to the Memes App!
 
 With this amazing app built using Kotlin and the Volley library, you can dive into the world of memes and share the laughter with your friends. The app is designed to fetch hilarious memes from a popular memes API and provide you with a seamless experience.
